@@ -1,0 +1,18 @@
+uuid = 68ea350f-b746-11ee-9071-080027308074
+name = 
+tool_name = xtrabackup
+tool_command = --backup --target-dir=/backups/base
+tool_version = 8.0.35-30
+ibbackup_version = 8.0.35-30
+server_version = 8.0.35-0ubuntu0.22.04.1
+start_time = 2024-01-20 03:45:50
+end_time = 2024-01-20 03:45:53
+lock_time = 1
+binlog_pos = filename 'binlog.000014', position '157'
+innodb_from_lsn = 0
+innodb_to_lsn = 21289251
+partial = N
+incremental = N
+format = file
+compressed = N
+encrypted = N
